@@ -10,10 +10,8 @@ Esta es una solución para el[desafío de la tarjeta de resumen de pedidos en Fr
 - [Mi proceso](#my-process)
   - [Construido con](#built-with)
   - [Que aprendi](#what-i-learned)
-  - [Desarrolo continuo](#continued-development)
   - [Recursos utiles](#useful-resources)
-- [Author](#author)
-- [Acknowledgments](#acknowledgments)
+
 
 
 
@@ -24,7 +22,7 @@ Esta es una solución para el[desafío de la tarjeta de resumen de pedidos en Fr
 El reto consta de hacer una tarjeta de pedidos lo mas similar posible a la imagen propuesta.
 
 ### Screenshot
-[](./Captura.PNG)
+[](./https://drive.google.com/file/d/1bwSSnHf6cLQBi29VZGijGW02fP8sSuuf/view?usp=sharing)
 
 ### Links
 
