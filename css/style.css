@@ -8,6 +8,8 @@ The designs were created to the following widths:
 ## Colors
 
 ### Primary */
+@import url('https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap');
+
 :root{
     --Pale-blue: hsl(225, 100%, 94%);
     --Bright-blue: hsl(245, 75%, 52%);
@@ -15,6 +17,139 @@ The designs were created to the following widths:
     --Desaturated-blue: hsl(224, 23%, 55%);
     --Dark-blue: hsl(223, 47%, 23%);
     --Font-size-paragraph: 16px;
+    --font-family : 'Red Hat Display', sans-serif;
 }
 
 
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: var(--font-family);
+}
+
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: var(--Pale-blue);
+
+}
+
+.card-container{
+    margin-top: 50px;
+    width: 90%;
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 0px 10px 10px 1px rgb(193, 206, 233) ;
+}
+.image-top{
+    width: 100%;
+}
+
+.image-top img{
+    width: 100%;
+    border-radius: 20px 20px 0 0;
+}
+
+.description{
+    text-align: center;
+    width: 80%;
+    padding: 30px 0;
+}
+
+h3{
+    font-weight: 900;
+    padding-bottom: 20px;
+}
+
+.description p{
+    font-size: var(--Font-size-paragraph);
+    font-weight: 500;
+    color: var(--Desaturated-blue);
+}
+
+.box-value{
+    background-color: var(--Very-pale-blue);
+    width: 90%;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+    margin-bottom: 30px;
+    font-size: 0.9rem;
+}
+.type{
+    font-weight: 900;
+}
+
+.value {
+    color: var(--Desaturated-blue);
+}
+
+
+
+button{
+    width: 90%;
+    padding: 15px;
+    background: var(--Bright-blue);
+    border: none;
+    color: var(--Very-pale-blue);
+    border-radius: 10px;
+    font-size: var(--Font-size-paragraph);
+    font-weight: 700;
+    margin-bottom: 30px;
+    box-shadow: 0px 10px 24px 0px hsl(245deg 75% 52% / 40%);
+    cursor: pointer;
+    
+}
+
+button:hover{
+    background-color: rgb(136, 85, 219);
+}
+
+.cancel{
+    padding-bottom: 20px;
+    font-size: var(--Font-size-paragraph);
+    font-weight: 900;
+    text-decoration: none;
+    color: var(--Desaturated-blue);
+    
+}
+
+.cancel:hover{
+    color:  var(--Dark-blue);
+}
+
+
+.change a{
+    color: var(--Bright-blue);
+    
+    font-weight: 700;
+}
+
+.change a:hover{
+    color: rgb(136, 85, 219);
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
