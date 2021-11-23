@@ -1,6 +1,6 @@
 # Solucion a Desafio Frontend Mentor: Tarjeta resumen de pedidos
 
-This is a solution to the [Order summary card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). 
+Esta es una solución para el[desafío de la tarjeta de resumen de pedidos en Fronend Mentor](https://www.frontendmentor.io/challenges/order-summary-component-QlPmajDUj). 
 
 ## Tabla de contenido
 
@@ -19,16 +19,17 @@ This is a solution to the [Order summary card challenge on Frontend Mentor](http
 
 ## Visión general
 
-### The challenge
+### El reto
 
 El reto consta de hacer una tarjeta de pedidos lo mas similar posible a la imagen propuesta.
 
 ### Screenshot
+[](./Captura.PNG)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://resumenpedido.netlify.app/)
 
 ## Mi proceso
 
