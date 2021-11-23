@@ -22,7 +22,7 @@ Esta es una solución para el[desafío de la tarjeta de resumen de pedidos en Fr
 El reto consta de hacer una tarjeta de pedidos lo mas similar posible a la imagen propuesta.
 
 ### Screenshot
-[](./https://drive.google.com/file/d/1bwSSnHf6cLQBi29VZGijGW02fP8sSuuf/view?usp=sharing)
+![screenshoot](https://drive.google.com/file/d/1bwSSnHf6cLQBi29VZGijGW02fP8sSuuf/view?usp=sharing "screenshot")
 
 ### Links
 
